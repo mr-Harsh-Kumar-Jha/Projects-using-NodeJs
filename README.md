@@ -53,19 +53,19 @@ And many more!
 
 To get started with these projects, follow the steps below:
 
-1. **Clone the repository**:
+1. ** Clone the repository**:
    ```bash
    git clone https://github.com/mr-Harsh-Kumar-Jha/Projects-using-NodeJs.git
 
-2. **Navigate to the project directory:
+2. ** Navigate to the project directory:
    ```bash
    cd Projects-using-NodeJs
 
-3. **Install dependencies: Each project has its own package.json file. Navigate to the specific project directory and install the required dependencies:
+3. ** Install dependencies: Each project has its own package.json file. Navigate to the specific project directory and install the required dependencies:
    ```bash
    cd project-directory
    npm install
-4. **Run the project:
+4. ** Run the project:
    ```bash
    npm start
 
